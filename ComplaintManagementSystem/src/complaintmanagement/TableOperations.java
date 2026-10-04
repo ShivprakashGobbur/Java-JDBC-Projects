@@ -10,7 +10,7 @@ import java.sql.ResultSet;
 public class TableOperations {
 	static String url = "jdbc:mysql://localhost:3306/complaint_db";
     static String username = "root";
-    static String password = "Shiv@8350";
+    static String password = "COMPLAINT_DB_PASSWORD";    
     
     static Connection con;
 
