@@ -14,7 +14,7 @@ public class TableOperations {
 	            con = DriverManager.getConnection(
 	                    "jdbc:mysql://localhost:3306/hospital_management_db",
 	                    "root",
-	                    "Shiv@8350"
+	                    "HOSPITAL_DB_PASSWORD"
 	            );
 	            System.out.println("Database connected successfully.");
 
